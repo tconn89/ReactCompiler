@@ -1,4 +1,2 @@
-Compiler meant for Tweego to transform .twee files into Twine html
-
-- build directory is for output of React so we can feed Tweego these files
-- dist is the bundle.js built from webpack and React.
+# ReactCompiler
+So your designer friend is making a game in Twine story format Harlowe, but you're a web developer so no way are you getting near that Global scope pollutated nightmare.  Instead just write javascript  in React and compile to Harlowe
