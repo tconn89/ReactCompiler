@@ -8,7 +8,6 @@ import Wake from './stories/Wake'
 import Werebeast from './stories/Werebeast'
 
 var stories = [Wake, Werebeast]
-console.log(Wake)
 
 stories.forEach((story) => {
 
